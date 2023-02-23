@@ -1,2 +1,8 @@
-# UCL-Protests-social-indicators-analysis
-Project on protests and social indicators - UCL Quantitative Methods 2
+# Protests and Social Indicators: What can social indicators tell us about the type and frequency of protests in some countries?
+QM2 Group 1 Project
+
+Analysis: Python code to filter data and make visualisations
+
+Data: Datasets used for protests and social indicators
+
+Website: Content to upload on website
